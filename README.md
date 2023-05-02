@@ -15,6 +15,7 @@ pip install pydub
 2.Save the convert.py file to your computer.
 3.Open a command prompt or terminal and navigate to the directory where you saved the convert.py file.
 4.Run the script with the following command:
-``` python mp3_to_wav.py <path to mp3 files> <path to wav output folder>
+``` 
+python mp3_to_wav.py <path to mp3 files> <path to wav output folder>
 ``` 
 
