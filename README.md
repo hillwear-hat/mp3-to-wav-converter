@@ -6,7 +6,8 @@
 
 ## Installation
 1. Install the pydub library
-``` pip install pydub
+``` 
+pip install pydub
 ```
 
 ##Usage
